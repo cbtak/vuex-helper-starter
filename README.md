@@ -1,4 +1,7 @@
+![avatar](/logo.png ':size=480')
+
 # vuex-helper-starter
+> This is a VuexHelper example.
 
 ## Project setup
 ```
